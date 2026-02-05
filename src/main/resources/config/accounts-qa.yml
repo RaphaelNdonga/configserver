@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Samitha Ray - QA Lead"
+    name: "Raphael Ray - QA Lead"
     email: "samitha@eazybank.com"
   onCallSupport:
     - (555) 555-7777
