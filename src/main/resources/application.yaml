@@ -1,6 +1,8 @@
 server:
   port: 8071
 
+encrypt:
+  key: "randomkey"
 spring:
   application:
     name: configserver
